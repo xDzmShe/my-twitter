@@ -16,9 +16,6 @@ import java.util.Set;
 @Setter
 @NoArgsConstructor
 @Entity
-//@NamedEntityGraph(
-//        name = "graph.User.followings",
-//        attributeNodes = @NamedAttributeNode("followings"))
 public class User {
     @Id
     @GeneratedValue

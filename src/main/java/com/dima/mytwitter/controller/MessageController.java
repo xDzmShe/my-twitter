@@ -11,7 +11,6 @@ import javax.validation.Valid;
 
 @RestController
 @RequestMapping("{user}")
-//@Validated
 public class MessageController {
 
     private final MessageService messageService;

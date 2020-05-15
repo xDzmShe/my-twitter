@@ -7,7 +7,6 @@ import lombok.Setter;
 
 import javax.validation.constraints.Size;
 
-//@Data
 @Getter
 @Setter
 @AllArgsConstructor
